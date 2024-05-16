@@ -3,5 +3,5 @@
 version = 3
 
 [[package]]
-name = "kronOS"
+name = "kron_os"
 version = "0.1.0"
